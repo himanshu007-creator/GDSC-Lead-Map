@@ -58,6 +58,7 @@ import zainul from "../../photos/zainul.jpg";
 import Vedant from "../../photos/Vedant.jpg";
 import yashrajkakkad from "../../photos/yashrajkakkad.jpg";
 import aitik from "../../photos/aitik.jpg";
+import Himanshu from "../../photos/himanshu.jpg";
 
 const data = [
 	{
@@ -175,6 +176,23 @@ const data = [
 		linkedin: "https://linkedin.com/in/ryuukenshi",
 		twitter: "https://twitter.com/ryuukenshi",
 		portfolio: "https://ryuukenshi.github.io/"
+	},
+	{
+		longitude: 75.57917,
+		latitude: 31.32556,
+		batch: 2021,
+		photo: Himanshu,
+		region: "Asia",
+		skills: ["Web Dev", "Open-Source" , "Googling"],
+		name: "Abhinav Srivastava",
+		bio: "Btech is my course , and i love opensource🟩",
+		url:
+			"https://gdsc.community.dev/Dav-institute-of-engineering-technology/",
+		chapterName: "DAV Institute of Engineering and Technology",
+		github: "https://github.com/himanshu007-creator",
+		linkedin: "https://linkedin.com/in/himanshu-here",
+		twitter: "https://twitter.com/_himanshu_325",
+		portfolio: "https://focused-wescoff-bfb488.netlify.app/"
 	},
 	{
 		longitude: 77.03527,
